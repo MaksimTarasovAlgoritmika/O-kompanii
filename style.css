@@ -1,1 +1,80 @@
 
+body {
+    font-family: Minion Web Symbol, sans-serif;
+    background-image: url('https://static.tildacdn.com/tild3364-6631-4166-a230-663266623139/photo_2025-03-07_20-.jpg');
+    
+   }
+
+header nav {
+    background-color: #a033ff;
+    padding: 0px;
+    border-radius: 0px;
+    text-align: center;
+    text-decoration: none;
+}
+ nav {
+    background-color: orange;
+    padding: 5px;
+    border-radius: 0px;
+    text-align: center;
+    text-decoration: none;
+    
+
+    
+}
+a {
+   font-size: 25px;
+   text-decoration: none; 
+}
+
+header img  {
+    width: 50%;
+    height: 155px;
+    margin-left: 0%;
+   }
+    
+ main img {
+    width: 300px;
+    height: 300px;
+}   
+    
+
+main p {
+    font-size: 25px;
+    color: black;
+    text-align: justify;
+}
+
+h1 img {
+    width: 480px;
+    height: 480px;
+}
+.background {
+    background-color: white;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 30px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+footer {
+    text-align: center;
+    font-size: 25px;
+    background-color: snow;
+    border-radius: 50px;
+    
+}
+nav a {
+    color: black;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+
+main h2 {
+    text-align: center;
+}
+
